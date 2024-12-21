@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="error_client">Client Error</string>
+    <string name="error_server">Server Error</string>
+    <string name="error_http">Http Error</string>
+    <string name="error_timeout">Timeout Error</string>
+    <string name="unexpected_error">Unexpected Error</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="messages">Messages</string>
+</resources>

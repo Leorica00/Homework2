@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favouritesPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_heart"
+        app:showText="false"
+        app:showAsAction="ifRoom"
+        android:title="@string/favourites" />
+
+    <item
+        android:id="@+id/homePage"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        app:showText="false"
+        app:showAsAction="ifRoom"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/messagesPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_message"
+        app:showText="false"
+        app:showAsAction="ifRoom"
+        android:title="@string/messages"/>
+</menu>
